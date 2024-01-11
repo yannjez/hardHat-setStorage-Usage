@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "findSlot": "npx hardhat findSlot",
+    "changeBalance": "npx hardhat changeBalance"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
